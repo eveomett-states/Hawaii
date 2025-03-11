@@ -6,7 +6,7 @@ This shapefile was processed by Professor Ellen Veomett and her student Arbie Hs
 
 The following obtained from [Redistricting Data Hub](https://redistrictingdatahub.org/) on June, 2024:
 
-[Population data](https://redistrictingdatahub.org/dataset/georgia-block-pl-94171-2020-by-table/): based on the decennial census at the Census Block level on 2020 Census Redistricting Data
+[Population data](https://redistrictingdatahub.org/dataset/hawaii-block-pl-94171-2020-by-table/): based on the decennial census at the Census Block level on 2020 Census Redistricting Data
 
 [Congressional District data](https://redistrictingdatahub.org/dataset/2022-hawaii-congressional-districts-approved-plan/): 2022 Congressional Districts Approved Interim Plan
 
@@ -19,6 +19,8 @@ The following obtained from [Redistricting Data Hub](https://redistrictingdatahu
 [2018 election data](https://redistrictingdatahub.org/dataset/vest-2018-hawaii-precinct-and-election-results/): VEST 2018 precinct and election results 
 
 [2016 election data](https://redistrictingdatahub.org/dataset/vest-2016-hawaii-precinct-and-election-results/): VEST 2016 precinct and election results
+
+[2020 County data](https://redistrictingdatahub.org/dataset/hawaii-county-pl-94171-2020/): from 2020 Census Redistricting Data (P.L. 94-171) Shapefiles
 
 # **Processing**
 
